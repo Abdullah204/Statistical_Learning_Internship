@@ -5,3 +5,4 @@ Algorithms Implemented :
   2- Multiple Linear Regression
   3- Logistic Regression
   4- Gradient Descent
+  5- Feature Selection
